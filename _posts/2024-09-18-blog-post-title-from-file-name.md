@@ -1,4 +1,4 @@
-# Alternative Keyboard Layouts
+# Introduction to Alternative Keyboard Layouts
 
 The main benefit of an alternative keyboard layout is to reduce typing strain and improve typing speed.
 
